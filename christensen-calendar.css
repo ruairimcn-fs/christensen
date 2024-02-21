@@ -1,9 +1,9 @@
 .calendar>.days-grid>.day.selected {
-    background-color: #3898ec !important;
+    background-color: #3898ec;
 }
 
 .calendar>.days-grid>.day.today {
-    color: #3898ec !important;
+    color: #3898ec;
 }
 
 .calendar>.days-grid>.day:hover {
