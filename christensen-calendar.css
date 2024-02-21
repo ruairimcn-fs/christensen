@@ -5,3 +5,10 @@
 .calendar>.days-grid>.day.today {
     color: #3898ec !important;
 }
+
+.calendar>.days-grid>.day:hover {
+    border: 1px solid #3898ec !important;
+    color: #3898ec !important;
+    background-color: #ffffff !important;
+}
+
